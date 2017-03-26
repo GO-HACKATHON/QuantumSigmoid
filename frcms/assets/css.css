@@ -1,0 +1,66 @@
+/*
+Styles related DIRECTLY with jQuery-simple-pagination
+*/
+.simple-pagination-page-numbers a
+{
+	display: block;
+	float: left;
+	width: 2rem;
+	text-align: center;
+}
+
+/*
+Styles used to page things look nice :)
+*/
+
+select
+{
+	border: 1px solid black;
+	font-size: 13px;
+}
+i
+{
+	padding: .125rem .5rem;
+	background-color: white;
+	color: #ff2727;
+	font-weight: normal;
+}
+.my-navigation:after
+{
+	content: "";
+	display: table;
+	clear: both;
+}
+.my-navigation div
+{
+	float: left;
+}
+.my-navigation div + div
+{
+	margin-left: .5rem;
+}
+
+.pagination_bar a {
+	color: white;
+	text-decoration: none;	
+}
+
+.pagination_bar a:hover {
+	color: #000;	
+}
+
+.pagination_bar{
+	padding: 30px;
+	background-color: #357ebd;
+
+}
+
+
+
+@media screen and (max-width: 959px){
+	body > div,
+	header
+	{
+		width: 90%;
+	}
+}

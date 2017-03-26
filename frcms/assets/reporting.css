@@ -1,0 +1,161 @@
+@font-face {
+	font-family: 'Gotham';
+	src: url('fonts/ufonts.com_gotham-book.ttf') format("truetype");  
+}
+#loadingover {
+  background: black;
+  z-index: 99;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  filter: alpha(opacity=80);
+  -moz-opacity: 0.8;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;
+}
+#store {
+	display: block;
+	width: 100%;
+	height: 26px;
+	padding: 0;
+	overflow: hidden;
+	cursor: pointer;
+	border: 1px solid #aaa;
+	text-align: left;
+	white-space: nowrap;
+	line-height: 26px;
+	color: #444;
+	text-decoration: none;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	
+	 font-weight: normal;
+	 background: url(../../assets/analytics/images/arrow-down.png) no-repeat scroll right center;
+
+
+	appearance:none;
+	-moz-appearance:none; /* Firefox */
+	-webkit-appearance:none; /* Safari and Chrome */
+}
+#store:focus {
+	 background: url(../../assets/analytics/images/arrow-up.png) no-repeat scroll right center;
+}
+#div_filter1{
+	font-family: 'Gotham';
+	font-size: 14pt;
+	color: #929191;  
+}
+#div_filter2{
+	font-family: 'Gotham';
+	font-size: 14pt;
+	color: #929191;  
+}
+.pointer{
+	cursor: pointer	
+}
+#btn_show{
+	cursor: pointer
+}
+#btn_pdf{
+	cursor: pointer
+}
+#btn_jpeg{
+	cursor: pointer
+}
+#btn_xls{
+	cursor: pointer
+}
+
+#div_buttons {
+	border-radius: 25px;
+	border: 2px solid #929191;
+	padding: 10px; 
+	height: 110px;  
+	font-family: 'Gotham';
+	font-size: 18pt;
+	color: #929191;  
+}
+#div_statistic {
+	font-family: 'Gotham';
+	font-size: 18pt;
+	color: #929191;  
+}
+#th_tbstore{
+	background-color: #00B8F1;
+	color: white; text-align: center;
+}
+.padded {
+	position: absolute;
+    right: 0px;
+}
+.summary-title{
+	font-family: 'Gotham';
+	font-size: 26pt;
+	color: #929191;		
+}
+.summary-msg{
+	font-family: 'Gotham';
+	font-size: 20pt;
+	color: #929191;		
+}
+.selected-font{
+	font-family: 'Gotham';
+	font-size: 12pt;
+	color: #929191;	
+	text-decoration: none;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+
+}
+.datepicker-font{
+	font-family: 'Gotham';
+	font-size: 12pt;
+	color: #929191;		
+}
+.filter-font{
+	font-family: 'Gotham';
+	font-size: 18pt;
+	color: #929191;		
+}
+/*CSS Menu Uniquecode*/
+.uniquecode-title {
+  font-family: 'Gotham';
+  font-size: 150%;
+  color:#929191
+}
+
+#tbody-uniquecode {
+	font-family: 'Gotham';
+	color: #929191;
+}
+.thUniq {
+	background-color: #00B8F1;
+	color: white; text-align: center;
+}
+
+.padLeft {
+   padding-left: 30;
+}
+.midImg {
+    white-space: nowrap;
+    
+    text-align: center; 
+}
+.roundedCorner {
+	border-radius: 25px;
+	border: 2px solid #929191;
+	padding: 10px; 
+	font-family: 'Gotham';
+	font-size: 18pt;
+	color: #929191;  
+}
+.help{
+	font-family: 'Gotham';
+	color: #929191; 	
+	font-size: 13pt;
+}

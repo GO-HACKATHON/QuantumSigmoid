@@ -1,0 +1,125 @@
+@CHARSET "ISO-8859-1";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+a.edit {
+	text-decoration: none;
+}
+
+
+.small_box {
+	width: 202px;
+	height: 108px;
+	margin-left: 10px;
+	-moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.bg-aqua {
+	background-color: #00c0ef;
+}
+.bg-orange {
+	background-color: #f39c12;
+}
+.bg-red {
+	background-color: #f56954;
+}
+.bg-green {
+	background-color: #00a65a;
+}
+
+.small_box_more {
+	position: absolute;
+	width: 202px;
+	height: 26px;
+	text-align: center;
+	color: #fff;
+	font-size: small;
+	padding-top:3px;
+	bottom: 0px;
+	-moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.bg-small_box_aqua {
+	background-color: #00acd6;
+}
+
+.bg-small_box_aqua:hover {
+	background-color: #00a2ca;	
+}
+
+.bg-small_box_orange {
+	background-color: #da8c10;
+}
+
+.bg-small_box_orange:hover {
+	background-color: #cd840f;
+}
+
+.bg-small_box_red {
+	background-color: #dc5e4b;
+}
+
+.bg-small_box_red:hover {
+	background-color: #cf5947;
+}
+
+.bg-small_box_green {
+	background-color: #009550;
+}
+
+.bg-small_box_green:hover {
+	background-color: #008c4c;
+}
+
+
+p.paragraph_box {
+	margin-left: 20px;
+	color: #fff;
+}
+
+#world-map {
+	-moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    border-radius: 2px;
+}
+
+div.pager {
+    text-align: left;
+    padding-left: 0px;
+    margin: 1em 0;
+    position: absolute;
+    top: 100%;
+}
+
+div.pager span {
+    display: inline-block;
+    width: 1.8em;
+    height: 1.8em;
+    line-height: 1.8;
+    text-align: center;
+    cursor: pointer;
+    background: #5D6061;
+    color: #fff;
+    margin-right: 2px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+div.pager span.active {
+    background: #428bca;
+}
+
