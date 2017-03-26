@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C238EF28-7670-1235-8C29-6F4B8E7CA2C9}") = "FoodRecognizer", "Assembly-CSharp.csproj", "{E1AF794F-BB59-692B-B8A2-FD182AE1CB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AF794F-BB59-692B-B8A2-FD182AE1CB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AF794F-BB59-692B-B8A2-FD182AE1CB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AF794F-BB59-692B-B8A2-FD182AE1CB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AF794F-BB59-692B-B8A2-FD182AE1CB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
