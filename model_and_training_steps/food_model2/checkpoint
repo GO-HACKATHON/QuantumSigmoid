@@ -1,0 +1,2 @@
+model_checkpoint_path: "food_model2"
+all_model_checkpoint_paths: "food_model2"

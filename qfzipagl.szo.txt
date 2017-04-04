@@ -1,0 +1,340 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/e/efee4967e927e59a7a0f5900b1ae9ffd.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/e/eff64c25542f16c9da9b211b034b833b.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/e/eff73c5439d7d6e4d1f0c91c6da1729a.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f008010adf9a1b4ffd6541624985a094.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0092a5d750f03ed227ea8eaa2dcdd63.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f009a392dd97650882baf1cf7c584cc0.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f021fbf33e4834aaea1a8a2758dd96e9.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f03f43060c7eb61e47ae90159e6112a5.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f047376938320d3b80fab4db0e3d7e00.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f04a9b47488db80fffaea3361cf091ea.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f05544e337bd449f9d9fd2c03e290e56.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f06f744e5b8ba41a6cc4e802efa66956.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f07913e5c625a0daea703040bf75d257.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f08b7a41320d888ee4058da9f4ae2e88.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0921e854b7be2b4559c23b44c0dde37.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0a19b37f5c5d3fa143d68fcec2faed8.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0a47c8cd275529ab2f652ffafa01108.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0a5eefe522d1c25027537f19a3f7669.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0ac7448f9f5a7574d3e23df861c606d.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0d09501fed1ba816491da6bc6e80084.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0e8cd35ffb2ce80231456941a9a0543.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f0fcacea88651132043245155a0dd06a.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f1005d04ca9e76826840ea0ac86c13b2.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f101a2089ad6be4e6c205e86c1460e3c.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f1087f1972d903a05439ae238b4b276d.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f10bd535a45ae7bd1a320ef2a965810b.bin
+#	new file:   GoFoodRecognizerMobile/Library/ShaderCache/f/f10f3621eeff1a512b09083b8093f58a.bin
+#	new file:   frcms/system/database/drivers/postgre/postgre_driver.php
+#	new file:   frcms/system/database/drivers/postgre/postgre_forge.php
+#	new file:   frcms/system/database/drivers/postgre/postgre_result.php
+#	new file:   frcms/system/database/drivers/postgre/postgre_utility.php
+#	new file:   frcms/system/database/drivers/sqlite/index.html
+#	new file:   frcms/system/database/drivers/sqlite/sqlite_driver.php
+#	new file:   frcms/system/database/drivers/sqlite/sqlite_forge.php
+#	new file:   frcms/system/database/drivers/sqlite/sqlite_result.php
+#	new file:   frcms/system/database/drivers/sqlite/sqlite_utility.php
+#	new file:   frcms/system/database/drivers/sqlite3/index.html
+#	new file:   frcms/system/database/drivers/sqlite3/sqlite3_driver.php
+#	new file:   frcms/system/database/drivers/sqlite3/sqlite3_forge.php
+#	new file:   frcms/system/database/drivers/sqlite3/sqlite3_result.php
+#	new file:   frcms/system/database/drivers/sqlite3/sqlite3_utility.php
+#	new file:   frcms/system/database/drivers/sqlsrv/index.html
+#	new file:   frcms/system/database/drivers/sqlsrv/sqlsrv_driver.php
+#	new file:   frcms/system/database/drivers/sqlsrv/sqlsrv_forge.php
+#	new file:   frcms/system/database/drivers/sqlsrv/sqlsrv_result.php
+#	new file:   frcms/system/database/drivers/sqlsrv/sqlsrv_utility.php
+#	new file:   frcms/system/database/index.html
+#	new file:   frcms/system/fonts/index.html
+#	new file:   frcms/system/fonts/texb.ttf
+#	new file:   frcms/system/helpers/array_helper.php
+#	new file:   frcms/system/helpers/captcha_helper.php
+#	new file:   frcms/system/helpers/cookie_helper.php
+#	new file:   frcms/system/helpers/date_helper.php
+#	new file:   frcms/system/helpers/directory_helper.php
+#	new file:   frcms/system/helpers/download_helper.php
+#	new file:   frcms/system/helpers/email_helper.php
+#	new file:   frcms/system/helpers/file_helper.php
+#	new file:   frcms/system/helpers/form_helper.php
+#	new file:   frcms/system/helpers/html_helper.php
+#	new file:   frcms/system/helpers/index.html
+#	new file:   frcms/system/helpers/inflector_helper.php
+#	new file:   frcms/system/helpers/language_helper.php
+#	new file:   frcms/system/helpers/number_helper.php
+#	new file:   frcms/system/helpers/path_helper.php
+#	new file:   frcms/system/helpers/security_helper.php
+#	new file:   frcms/system/helpers/smiley_helper.php
+#	new file:   frcms/system/helpers/string_helper.php
+#	new file:   frcms/system/helpers/text_helper.php
+#	new file:   frcms/system/helpers/typography_helper.php
+#	new file:   frcms/system/helpers/url_helper.php
+#	new file:   frcms/system/helpers/xml_helper.php
+#	new file:   frcms/system/index.html
+#	new file:   frcms/system/language/english/calendar_lang.php
+#	new file:   frcms/system/language/english/date_lang.php
+#	new file:   frcms/system/language/english/db_lang.php
+#	new file:   frcms/system/language/english/email_lang.php
+#	new file:   frcms/system/language/english/form_validation_lang.php
+#	new file:   frcms/system/language/english/ftp_lang.php
+#	new file:   frcms/system/language/english/imglib_lang.php
+#	new file:   frcms/system/language/english/index.html
+#	new file:   frcms/system/language/english/migration_lang.php
+#	new file:   frcms/system/language/english/number_lang.php
+#	new file:   frcms/system/language/english/pagination_lang.php
+#	new file:   frcms/system/language/english/profiler_lang.php
+#	new file:   frcms/system/language/english/unit_test_lang.php
+#	new file:   frcms/system/language/english/upload_lang.php
+#	new file:   frcms/system/language/index.html
+#	new file:   frcms/system/libraries/Cache/Cache.php
+#	new file:   frcms/system/libraries/Cache/drivers/Cache_apc.php
+#	new file:   frcms/system/libraries/Cache/drivers/Cache_dummy.php
+#	new file:   frcms/system/libraries/Cache/drivers/Cache_file.php
+#	new file:   frcms/system/libraries/Cache/drivers/Cache_memcached.php
+#	new file:   frcms/system/libraries/Cache/drivers/Cache_redis.php
+#	new file:   frcms/system/libraries/Cache/drivers/Cache_wincache.php
+#	new file:   frcms/system/libraries/Cache/drivers/index.html
+#	new file:   frcms/system/libraries/Cache/index.html
+#	new file:   frcms/system/libraries/Calendar.php
+#	new file:   frcms/system/libraries/Cart.php
+#	new file:   frcms/system/libraries/Driver.php
+#	new file:   frcms/system/libraries/Email.php
+#	new file:   frcms/system/libraries/Encrypt.php
+#	new file:   frcms/system/libraries/Encryption.php
+#	new file:   frcms/system/libraries/Form_validation.php
+#	new file:   frcms/system/libraries/Ftp.php
+#	new file:   frcms/system/libraries/Image_lib.php
+#	new file:   frcms/system/libraries/Javascript.php
+#	new file:   frcms/system/libraries/Javascript/Jquery.php
+#	new file:   frcms/system/libraries/Javascript/index.html
+#	new file:   frcms/system/libraries/Migration.php
+#	new file:   frcms/system/libraries/Pagination.php
+#	new file:   frcms/system/libraries/Parser.php
+#	new file:   frcms/system/libraries/Profiler.php
+#	new file:   frcms/system/libraries/Session/Session.php
+#	new file:   frcms/system/libraries/Session/SessionHandlerInterface.php
+#	new file:   frcms/system/libraries/Session/Session_driver.php
+#	new file:   frcms/system/libraries/Session/drivers/Session_database_driver.php
+#	new file:   frcms/system/libraries/Session/drivers/Session_files_driver.php
+#	new file:   frcms/system/libraries/Session/drivers/Session_memcached_driver.php
+#	new file:   frcms/system/libraries/Session/drivers/Session_redis_driver.php
+#	new file:   frcms/system/libraries/Session/drivers/index.html
+#	new file:   frcms/system/libraries/Session/index.html
+#	new file:   frcms/system/libraries/Table.php
+#	new file:   frcms/system/libraries/Trackback.php
+#	new file:   frcms/system/libraries/Typography.php
+#	new file:   frcms/system/libraries/Unit_test.php
+#	new file:   frcms/system/libraries/Upload.php
+#	new file:   frcms/system/libraries/User_agent.php
+#	new file:   frcms/system/libraries/Xmlrpc.php
+#	new file:   frcms/system/libraries/Xmlrpcs.php
+#	new file:   frcms/system/libraries/Zip.php
+#	new file:   frcms/system/libraries/index.html
+#
+# Untracked files:
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f116cf0dfdbee4217bb69cca73285783.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f15577ffee0fe860fa80d2cb0a8d581b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f1aeb693d919417ace82d36e959ad1ef.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f1c19fa188626f082014c57649f5eb5b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f1c33ba4b69742c6c2c531ff5bda1f24.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f1d37b38d4f535d003f872f9de0af4e5.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f26054a619c306c30156b7855f7171b8.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f27f9958208bad718038b479d23ff2ef.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f29003da2c63d646bb3fe1133e626faf.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f2a82e19cd51ea923fae7583802eeb73.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f2d191cce6d72d60edc59f2f6ae61507.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f2dd9d060f13d4a87e00a9e154bdddb7.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f2fbcc0c3ceb835b52eacfb13fae90c5.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f2fcb8f8af22b4403739d16fd38a152a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f3072dba18fa4769662aaf7fa94fee9c.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f33ccfe5b2d166fe0b371d194f94d10f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f343fadd9bd2026757684d3b0d7acba8.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f35635716bb03936c34a99ca30db2121.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f3571c22281824846f602ca94a3f2365.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f36345860e41b9ab20c974f0ac8a19ef.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f38f43b60e01ee1a341f9502b948f593.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f3d12b9f734498988fb3dadd63ad2dbc.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f403243188115723d71fe6bd924ba67f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f42f389ef80bc0055befdb4dd0d117f9.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f443036c1e5329d805f93144801bd351.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f46c4e22258803a0509fa4221150dae0.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f498f842b5fbba18832b2d8bf9d0c3c6.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f4a87c68527527683da10340bd454556.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f4ab555cd5c25214ffa6c2097588232b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f4ce40abf99ebf3aa580616386a3f5ce.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f5056c1402bd247fbe7b365c4b5c5175.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f50f3b836e00365b0610832662407aab.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f5112ae3d93cb9f3b876cb3e07e0bf51.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f51ab5b81230ae17df54f13959bf5129.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f5354f62906ea8c401ed40da51a0fa6d.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f53a63e0767e1d9d761d4e7206d5f1d6.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f53b9304f20153de158b7e7704e34ff6.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f556c01f2dad4d80f248c0121c38202a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f583e5114dfa16f162e7dd2c7b836f7e.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f5de7f9c188e582d26c2494769d3a0b9.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f5e044a83809ad5f1d7e623ad9d34baa.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f5e271e9358dc3052e6ce03aa97277d8.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f5fd29e3ece7a6766046ed7150bc8208.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f612cd6a3826415d7767d6c375e84f9d.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f624892bcf870c68246a096b5f3e03ae.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6271f56b10967fc2467cefb6b50e810.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f62db63ceb9f9695d39f5fd860704a26.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f656d7c3aa75574367e7e5e2eb173786.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f65b6f8dea61967746f315f732b8a436.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f661bfcebb71233b891853ea903ac00d.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f67dbffc60ff9d5fab51b98c27749544.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f686fb14dcd444faeabb35e7ad8fd96b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f69495b698535c4db6ade1e9ae4af3f6.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6a59bb11b8e31d71bc70b9baef52696.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6a747096a590a3b4c3c7df707662735.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6b495c05798321bfd761a907e0def99.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6c329ce2d2266002611ccde2ad0e73e.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6e93251767a956048f02d269dab4942.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6f06e3d117e1170f2d49b9b194782bd.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f6fce7f4053bf8aa85a6abd86df5798b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f710002f83077882953051729e945764.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f72ebe47107c2c9d97d4f576fd3e5b8a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f7512dd912ea16aaa7cc22cd18047c84.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f76724e75f5bd83b367b4aba68ff3363.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f7707869a2abb59a9e02da8329c61d45.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f78cb4045db2d6c9983c56d082c7c4ea.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f7a8c1bfced070f5772bdec92e7078f6.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f7aeff23d535873b870f6d0524c67f2d.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f7b63a948a86b7b901ab1e4196d67ccf.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f7b966774ba3396237e7b5b4005254ed.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f81be0fe2f3a961801e2b8a07be5dd5a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f825c3d5123b1f3f97a8fb5064a3357e.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8263abd995ee40d64093bcaafd31408.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f83f8b498567e66f3a64bdd3b34648a5.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f84815e48ca5a973ff90061bb51e9923.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8600b5ddd577551a688324eb93cd10a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f861fd38932526a15c698f30e022c11f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8687940c21e8f606a7c00f13ef113cd.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f86f01ca915b42a822ccd59938cc7b6d.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f879eada32ec69f877e6eb9bf96f12c7.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f87a2599e84ad50f5e5af19ad25f0bd4.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8b05756d295c47b715a54e4e486095b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8b97a7f68a2eae71ee559c39c5fb771.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8c500fde265d20cdc9b70d9019c090c.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8ce945063edac2f65007af2c572e99c.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8dbd9207dc11a606884b9b45d19e032.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f8fe30cd1784d41b9f27651ba442ed41.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f93802d6606e4f669d97ff3144d22c32.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f93a5f7de035ef93f1db222491bdc8f7.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f94532c195f4bf316f19a8f059d40721.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9514ff4627b9d5b8eb9bdba4ba2a90c.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f957cb373c468ea793dc5f4c57dab347.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f959fb425df72d979f9d07e76fb3ee8a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f96347c9e565463a822da5df67e59bbb.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9719c157a6e16d8f6824fff6fa4ff18.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f972f64d803f27599914e9eec975b203.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f986d20274542806f95e7810667342c9.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9a534c9ef58ac704f0e064f2449e4e4.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9b49ab555f940b5fffcf2893b9cc34e.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9e01fda895b6c62912d335e8aed3211.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9edd7a49cd16258e6d447e37985e277.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9f145e49810260bec27a3bbbe0bfb5f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/f9fc7447152bb8b9f0a2ace1a8f88da9.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa0069c090ac37bf0d738c8d24865548.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa0bae1bd0090105ffd659eabd0ff08f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa2b1f1fdde75886b8589f128e45ae25.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa2cb535b450f7bd4ea5154f850b6d82.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa493c002c5b196bd3e057c0622f4d8f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa512c016a92e6c75c947c37c4dee214.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa52c734bcd78f6b8ee54d13a2618a33.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa673185b9187cc086d2a6898c3a8278.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa6a84fbe1f18a9ee80b2d4696caae30.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa7cc2976a6f5d55c6c768c3d709066e.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fa83fe5893ca89b79dc60cd98ec3026a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fab5c2fcf6b0f43f40526ae89dca92e1.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fab8653b91c737d97f62a96e6bc74c2c.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fabec4cc084a853dc923855f26a3c7e7.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fac209647ee8e8f4f81c0b4897d5aedd.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fac468a44e84e883669bc69156133472.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fac6a1495d828ea087ebbe52b12d7cc8.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fadd9334ef89a7e3cdeba47947a56aab.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fae779732a050059b390d56ff73c4882.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fb0d342978cd74934403ab577092dece.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fb285bf66d939f1374789fb1718e0240.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fb324163f62f8af2e0483d6dbd29bb72.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fb4e6286f6d9bd94330f48c8bc35dccd.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fb5e786eaeb79c1fdb5d90594c791f3a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fb5ffd367bee13675814e90078cf36e1.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fb9f01fad5f3b6a2cc257db6a7ee5a76.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fbb889222fe5ce8893b1cba688807bc2.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fbedeb5dcf75d5d8bf42e762f531f88b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fc1b5568b5b78c7d9d2f22367c0b70a8.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fc469651165066b5c8a2c6a430aa89e6.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fc4c17cb7b5ae80113583be9d1c454ce.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fc7a803fbc85fc4f9e27ebad477f63f0.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fc85a74e7b92fe9ba9a57ad6014d2845.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fc8c74bbee9d2970156b7447ba4a6c01.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fc98f34d62403cb9b962c53f55f05996.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fcb417bc633791601a2e359f9aeeb30d.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fcb747c5dbdfad7eb3a6cc211106f119.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fccfa57c20b790a4271006c6ecabd7a4.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fce32970c1eeee2333c8e9c084e50ff3.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd2c51899d23a585fc49e3fbbf356c9a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd2f8892b9c7b719cd0fdc690ab94dfb.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd3a7fdc9d9b8edb7e3a100c3b4917c0.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd552d010855223913b3867969fda21c.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd84f9a993b141683e5d427d004f5290.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd8ab658faea3b13ab8ca4b5e0605e67.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd93531c970867ae11e882e8fc70bd55.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fd944fa90524f8beabfde1f3d32ed323.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fdabee9701f891673e450b8c63e841cf.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fde618cf2b43e14c19b266655eb34369.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe0a147aabc4a0b9733bb7b026a50bad.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe0b2576c288f931774f7b7c8aef16f5.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe2d824f9127ec5c9da04359a4551ba6.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe2fade2f12248d13c7e71df873e4983.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe468afb1785cc67eb415d2de46f06eb.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe49f7781b8116af40d3e4156969de24.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe5d89e4d12eedd18cd2ab0cc16cd0a5.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe6d37f2d1c6ade3ebcb5d43e64c6cc5.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe72304f185af451382c5478cd507053.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe803737d2bf18da989d8d16616cd224.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe81fd545ff9b67f4887a2844f4b203e.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe919464817077e0b39b01f4dc80bff5.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fe964abf8af3d461d403dbc0a5aeb0ba.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fea904bb7a9bae6fc975ec71d41870af.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/feb83868e9800a5f78b7b4dbe58a363c.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/febd34af65cc8c0ecbca8a72cc0d09e3.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/fef452d607af15b871efdd81bb435c6f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff0378ed8a66510c438c709367a563f1.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff1ce292f4c7f8392e16085d0d4dddf1.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff24098298ba40a323521cfbddacb231.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff3101f2a005d6059661486cc8755988.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff31ad7a4d23e9e5d231a8bd1e7b6578.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff503a221da347269744192f2bf6c575.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff5dd7a42c346b93b620680296f6335d.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff7f0380617871af2ded8db80616d59b.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ff99904288e40f21462a4a043670b802.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffa82660470b708fe546113740669578.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffc096c3126ffe7a993f28f19b3e0199.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffcd48364746ae36faf6797708bf3db1.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffcf9739175a5e437cf5513749b9b52a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffd11c68e66f48e19efd4e736930cd2a.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffd1d5a27655f0e39ddf225cada28231.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffd4fcddd7d56d3fd8c25d0af009314f.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffd6bf6efb483b8e40f5bec3c65574b2.bin
+#	GoFoodRecognizerMobile/Library/ShaderCache/f/ffdae5fc5d4e0aa00ddeb66d27cbf99f.bin
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler.exe0.log
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler.exe1.log
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler.exe2.log
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler.exe3.log
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler0.log
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler1.log
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler2.log
+#	GoFoodRecognizerMobile/Library/shadercompiler-UnityShaderCompiler3.log
+#	GoFoodRecognizerMobile/ProjectSettings/
+#	GoFoodRecognizerMobile/obj/
+#	model_and_training_steps/
+#
+
