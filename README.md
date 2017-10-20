@@ -1,4 +1,4 @@
-# QuantumSidmoid
+# QuantumSigmoid
 Cloud based food image recognizer
 
 for tarining your own model, first you have to download google inception model (tensorflow_inception_graph.pb) and put it in how_to_build_model
